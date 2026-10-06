@@ -1,0 +1,15 @@
+# Secrets
+config.env
+
+# Local runtime data
+data/
+generated/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
